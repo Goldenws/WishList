@@ -1,0 +1,13 @@
+C:\Users\Roland Strod\source\repos\ListsAndFiles\ListsAndFiles\bin\Debug\netcoreapp3.1\ListsAndFiles.exe
+C:\Users\Roland Strod\source\repos\ListsAndFiles\ListsAndFiles\bin\Debug\netcoreapp3.1\ListsAndFiles.deps.json
+C:\Users\Roland Strod\source\repos\ListsAndFiles\ListsAndFiles\bin\Debug\netcoreapp3.1\ListsAndFiles.runtimeconfig.json
+C:\Users\Roland Strod\source\repos\ListsAndFiles\ListsAndFiles\bin\Debug\netcoreapp3.1\ListsAndFiles.runtimeconfig.dev.json
+C:\Users\Roland Strod\source\repos\ListsAndFiles\ListsAndFiles\bin\Debug\netcoreapp3.1\ListsAndFiles.dll
+C:\Users\Roland Strod\source\repos\ListsAndFiles\ListsAndFiles\bin\Debug\netcoreapp3.1\ListsAndFiles.pdb
+C:\Users\Roland Strod\source\repos\ListsAndFiles\ListsAndFiles\obj\Debug\netcoreapp3.1\ListsAndFiles.csprojAssemblyReference.cache
+C:\Users\Roland Strod\source\repos\ListsAndFiles\ListsAndFiles\obj\Debug\netcoreapp3.1\ListsAndFiles.AssemblyInfoInputs.cache
+C:\Users\Roland Strod\source\repos\ListsAndFiles\ListsAndFiles\obj\Debug\netcoreapp3.1\ListsAndFiles.AssemblyInfo.cs
+C:\Users\Roland Strod\source\repos\ListsAndFiles\ListsAndFiles\obj\Debug\netcoreapp3.1\ListsAndFiles.csproj.CoreCompileInputs.cache
+C:\Users\Roland Strod\source\repos\ListsAndFiles\ListsAndFiles\obj\Debug\netcoreapp3.1\ListsAndFiles.dll
+C:\Users\Roland Strod\source\repos\ListsAndFiles\ListsAndFiles\obj\Debug\netcoreapp3.1\ListsAndFiles.pdb
+C:\Users\Roland Strod\source\repos\ListsAndFiles\ListsAndFiles\obj\Debug\netcoreapp3.1\ListsAndFiles.genruntimeconfig.cache
